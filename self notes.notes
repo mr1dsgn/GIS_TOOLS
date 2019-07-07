@@ -1,0 +1,1 @@
+The size of both .shp and .dbf component files cannot exceed 2 GB (or 231 bytes) — around 70 million point features at best.[4] The maximum number of feature for other geometry types varies depending on the number of vertices used.
